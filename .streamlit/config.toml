@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor = "#E86F58"              # Warm Vespa coral
+backgroundColor = "#FFFBF7"           # Soft warm cream
+secondaryBackgroundColor = "#F4ECE4"  # Warm sand card/input tint
+textColor = "#2B2D42"                 # Soft charcoal-navy (easier on eyes than harsh black)
+font = "sans serif"
