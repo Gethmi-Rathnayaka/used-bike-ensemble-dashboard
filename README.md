@@ -143,12 +143,7 @@ The live prediction interface currently serves Random Forest, XGBoost, LightGBM,
 
 ### Installation
 
-Clone the repository:
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd used-bike-ensemble-dashboard
-```
+Clone the repository.
 
 Install the dependencies:
 
