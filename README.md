@@ -196,23 +196,17 @@ The original experimentation notebook should also be included in the repository.
 
 ## 10. AI Usage Acknowledgement
 
-Generative AI tools, including ChatGPT, were used as supporting tools during this project.
-
 AI assistance was used for:
 - Guidance on Python implementation and debugging.
 - Assistance with Streamlit dashboard development and interface improvements.
 - Help with code explanations, documentation, and README preparation.
 
-Dataset selection, model experimentation, execution, evaluation, and interpretation were carried out as part of the project work. AI-generated suggestions and code were reviewed and adapted during implementation.
-
 ## 11. Links
 
-- **GitHub Repository:** Add repository URL here.
-- **Live Dashboard:** Add deployed Streamlit URL here.
-- **Project Demonstration:** Add video URL here, if applicable.
+- **GitHub Repository:** https://github.com/Gethmi-Rathnayaka/used-bike-ensemble-dashboard
+- **Live Dashboard:** https://used-bike-ensemble-dashboard-gasxqgns3xlhvhieyjitny.streamlit.app/
 
 ---
 
 **Project:** Used Bike Price Prediction Using Ensemble Learning  
-**Dataset:** Sri Lankan used-bike listings from ikman.lk  
-**Dashboard:** Streamlit
+**Dataset:** [Sri Lankan used-bike listings from ikman.lk ](https://www.kaggle.com/datasets/ravinathwanni/used-bike-prices-in-sri-lanka) 
